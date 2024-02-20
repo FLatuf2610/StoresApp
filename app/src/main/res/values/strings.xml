@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_store">Add Store</string>
+    <string name="input_url">Image URL</string>
+    <string name="input_name">Name</string>
+    <string name="input_phone">Phone</string>
+    <string name="input_web">Web URL</string>
+    <string name="iv_preview">Preview</string>
+    <string name="edit_store">Edit Store</string>
+</resources>

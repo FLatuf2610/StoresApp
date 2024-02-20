@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_store">Add Store</string>
+    <string name="input_url">Image URL</string>
+    <string name="iv_preview">Preview</string>
+</resources>
